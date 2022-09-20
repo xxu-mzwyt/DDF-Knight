@@ -1,0 +1,29 @@
+;   @ - The starting position of the player.
+;   $ - A barrier.
+;   . - A place where a enemy spawned.
+;   + - Player & goal
+;   * - Star & goal
+;  (space) - an empty open space.
+;   # - A wall.
+
+####                 ######
+#.  ####            #    .#
+#      #############      #
+#              #          #
+ ###  $        #        ###
+    #     ###  #     $###
+    #        #  #     #    
+    #        #        #    
+    #####             #    
+    #            ##   #    
+    #        @ $  #   #
+    #  $  #       ##  #
+    #  ## #        #  #
+   ##     $#       #  #
+  #        ##   #      #   
+ #              #       #  
+#      ##############    # 
+#.    ##            #   .# 
+#######              ##### 
+
+

@@ -1,0 +1,29 @@
+;   @ - The starting position of the player.
+;   $ - The starting position for a pushable star.
+;   . - A goal where a star needs to be pushed.
+;   + - Player & goal
+;   * - Star & goal
+;  (space) - an empty open space.
+;   # - A wall.
+
+####                 ######
+#.  ####            #    .#
+#      #############      #
+#              #          #
+ ###  #        #        ###
+    #     ###  #     ####
+    #        #  #     #    
+    #        #        ###  
+    #####             #    
+    #            ##   #    
+    #        @ #  #   #    
+    #  #  #       ##  #
+    #  ## #        #  #    
+   ##     ##       #  #    
+  #        ##   #      #   
+ #              #       #  
+#      ##############    # 
+#.    ##            #   .# 
+#######              ##### 
+
+
